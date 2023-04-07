@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chidambarraju&label=Profile%20views&color=0e75b6&style=flat" alt="chidambarraju" /> </p>
 
-- 💬 Ask me about **GIT , GITHUB , MAVEN , JENKINS , DOCKER , KUBERNETES , ANSIBLE**
+- 💬 Ask me about **GIT , GITHUB , MAVEN , JENKINS , DOCKER , KUBERNETES , ANSIBLE , LINUX **
 
 - 📫 How to reach me **surachidambarraju@gmail.com**
 
