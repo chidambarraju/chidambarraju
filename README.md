@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chidambar raju</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="right" alt="coding"width="400" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+<img align="right" width="400" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 <img align="right" alt="coding"width="400" scrc="https://giphy.com/gifs/network-technologies-connectivity-ITRemFlr5tS39AzQUL">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chidambarraju&label=Profile%20views&color=0e75b6&style=flat" alt="chidambarraju" /> </p>
 
-- 💬 Ask me about **GIT,GITHUB,MAVEN,JENKINS,DOCKER,KUBERNETES,ANSIBLE**
+- 💬 Ask me about **GIT , GITHUB , MAVEN , JENKINS , DOCKER , KUBERNETES , ANSIBLE**
 
 - 📫 How to reach me **surachidambarraju@gmail.com**
 
