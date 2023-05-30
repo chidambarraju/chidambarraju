@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **GIT , GITHUB , MAVEN , JENKINS , DOCKER , KUBERNETES , ANSIBLE , LINUX **
 
-- 📫 How to reach me **surachidambarraju@gmail.com**
+- 📫 How to reach me **rajuuu1901@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/surac/Downloads/dev%20resume%20%20(2).pdf](file:///C:/Users/surac/Downloads/dev%20resume%20%20(2).pdf)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I am funny**
 
